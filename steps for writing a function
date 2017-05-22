@@ -1,0 +1,28 @@
+#get folder path for the folder for renaming files
+#loop through all the files in the folder and remove any numbers in each file name and save
+
+#check if a file exists before renaming, if exists go ahead, if not print error message
+#check if a file already exists with a name, if does not exits go ahead, if not print error message
+
+#divide 360 degrees in to 36 
+#for each in range 36 we will draw a square and then move 10 degrees
+
+What is a class?
+
+class is a way of defining what all properties a class can have and what all actions(functions) it can perform
+
+What is a instance of a class?
+
+Instance is a kind of class that actually has values and can actually peform actions with the values and its functions
+
+Analogy for class?
+
+I think class is like a skelton of a human being, it defnies the structure of our body and all the different parts show the various functions we can perform like moving our hands or walking.
+
+But an instance of a class is a living human being with a life(memory created) and can actually perform actions
+
+Check profanity
+
+# Take a sentence and divide them into individual words
+# for each word in the individual words check against a list or database of profanity words and filter them in an array to print at the end
+
